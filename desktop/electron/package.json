@@ -24,7 +24,7 @@
         "electron-log": "^4.4.6",
         "electron-serve": "^1.1.0",
         "electron-settings": "^4.0.2",
-        "electron-updater": "^4.6.5",
+        "electron-updater": "^6.2.1",
         "electron-util": "^0.17.2",
         "electron-window-state": "^5.0.3",
         "node-fetch": "^3.2.10"
@@ -33,7 +33,7 @@
         "@types/auto-launch": "^5.0.2",
         "@typescript-eslint/eslint-plugin": "^5.18.0",
         "@typescript-eslint/parser": "^5.18.0",
-        "electron": "^18.0.3",
+        "electron": "^22.3.25",
         "electron-builder": "^23.6.0",
         "eslint": "^8.12.0",
         "prettier": "^2.6.2",
